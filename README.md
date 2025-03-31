@@ -2,7 +2,7 @@
 
 ## Group Members
 - OLIVIA NGUNI
-- [Partner's Name]
+- SUWILANJI CHELLAH
 
 ## Project Description
 A responsive multipage website for a tech solutions company featuring:
