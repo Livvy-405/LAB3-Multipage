@@ -21,7 +21,7 @@ A responsive multipage website for a tech solutions company featuring:
 - **Form Validation**: Required fields, email format, minlength
 
 ### CSS Selectors Used
-/* Type selectors */
+
 body, header, nav, main, footer, section, div, ul, li, a, h1, h2, h3, p, img, form, label, input, textarea, button
 
 - **Images**:
