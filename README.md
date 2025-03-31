@@ -20,13 +20,10 @@ A responsive multipage website for a tech solutions company featuring:
   - Hover effects on navigation, cards, and buttons
 - **Form Validation**: Required fields, email format, minlength
 
-### Design Elements
-- **Color Palette**:
-  - Primary: Indigo (#4F46E5)
-  - Secondary: Emerald (#10B981)
-  - Accent: Amber (#F59E0B)
-  - Dark: Gray-800 (#1F2937)
-  - Light: Gray-100 (#F3F4F6)
+### CSS Selectors Used
+/* Type selectors */
+body, header, nav, main, footer, section, div, ul, li, a, h1, h2, h3, p, img, form, label, input, textarea, button
+
 - **Images**:
   - Hero background (hero-bg.jpg)
   - Cloud image (cloud.png)
