@@ -29,7 +29,10 @@ A responsive multipage website for a tech solutions company featuring:
   - Light: Gray-100 (#F3F4F6)
 - **Images**:
   - Hero background (hero-bg.jpg)
-  - Service icons (service1.png - service4.png)
+  - Cloud image (cloud.png)
+  - Data Analytics image (data-fina;.png)
+  - Mobile Apps (mobile.jpg)
+  - Web Dev image (new-web.png)
 
 ### Responsive Design
 Media queries for:
@@ -37,5 +40,3 @@ Media queries for:
 - 768px: Changes navigation layout
 - 480px: Stacks all grid items
 
-## Screenshots
-(Include screenshots of desktop and mobile views for each page)
